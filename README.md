@@ -61,7 +61,7 @@ $200-250
   - [ ] Relocation did allow for battery to be on a different “plane” than pipe network so less concern of water and main     power source interacting
 
 ## Hardware Wiring Diagram:
-- [ ] For simultineous control
+- [ ] For simultaneous control
 ![simul](/../main/simul.JPG)
 - [ ] For delayed individual control
 ![delay](/../main/delay.JPG)
